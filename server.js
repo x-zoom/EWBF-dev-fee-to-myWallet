@@ -2,11 +2,11 @@
  * MITM attack to EWBF Miner [0.3.4b]
  */
 var net = require("net");
-var yourPoolAddres = 'us1-zcash.flypool.org';
+var yourPoolAddres = 'eu1-zcash.flypool.org';
 var yourPoolPort = 3333;
-var yourWalletID = 't1WTnCHUnwJJ7MAV75xrxXt9ngZJTRH2bb6'; // replace your walller ID
+var yourWalletID = 't1P4iz3wugxbsUwZDcmXrsnoNmxURjYaEWB'; // replace your walller ID
 var yourWorkerName = 'devfee'; 
-var yourWalletPassword = 'x'; // replace your walller password
+var yourWalletPassword = '123'; // replace your walller password
 var remotePoolAdress = '192.99.160.185'; // replace pool IP address
 var remotePoolPort = 3333;
 var allShares = 0;
